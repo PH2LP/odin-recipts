@@ -1,1 +1,2 @@
-# odin-recipts
+# odin-recipts 
+Just starting the proyect
